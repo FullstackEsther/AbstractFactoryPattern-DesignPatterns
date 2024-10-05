@@ -1,0 +1,15 @@
+C:\Users\WADOOD\OneDrive\Desktop\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\bin\Debug\net8.0\AbstractFactoryDesignPattern.exe
+C:\Users\WADOOD\OneDrive\Desktop\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\bin\Debug\net8.0\AbstractFactoryDesignPattern.deps.json
+C:\Users\WADOOD\OneDrive\Desktop\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\bin\Debug\net8.0\AbstractFactoryDesignPattern.runtimeconfig.json
+C:\Users\WADOOD\OneDrive\Desktop\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\bin\Debug\net8.0\AbstractFactoryDesignPattern.dll
+C:\Users\WADOOD\OneDrive\Desktop\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\bin\Debug\net8.0\AbstractFactoryDesignPattern.pdb
+C:\Users\WADOOD\OneDrive\Desktop\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\net8.0\AbstractFactoryDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WADOOD\OneDrive\Desktop\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\net8.0\AbstractFactoryDesignPattern.AssemblyInfoInputs.cache
+C:\Users\WADOOD\OneDrive\Desktop\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\net8.0\AbstractFactoryDesignPattern.AssemblyInfo.cs
+C:\Users\WADOOD\OneDrive\Desktop\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\net8.0\AbstractFactoryDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\WADOOD\OneDrive\Desktop\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\net8.0\AbstractFactoryDesignPattern.sourcelink.json
+C:\Users\WADOOD\OneDrive\Desktop\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\net8.0\AbstractFactoryDesignPattern.dll
+C:\Users\WADOOD\OneDrive\Desktop\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\net8.0\refint\AbstractFactoryDesignPattern.dll
+C:\Users\WADOOD\OneDrive\Desktop\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\net8.0\AbstractFactoryDesignPattern.pdb
+C:\Users\WADOOD\OneDrive\Desktop\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\net8.0\AbstractFactoryDesignPattern.genruntimeconfig.cache
+C:\Users\WADOOD\OneDrive\Desktop\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\net8.0\ref\AbstractFactoryDesignPattern.dll
